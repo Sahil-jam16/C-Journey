@@ -1,6 +1,6 @@
 # C-Journey
 My journey towards the C Programming Language
 
-> I am following Geeks for Geeks toturial on C 
+> I am following 100 days for code on C 
 
-> https://practice.geeksforgeeks.org/explore/?difficulty%5B%5D=-2&page=1
+> https://github.com/sanjaysanju618/100-Days-of-Code/blob/main/README.md
