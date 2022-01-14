@@ -1,4 +1,3 @@
-// TODO : Remainder Evaluation
 #include<stdio.h>
 int main()
 {
