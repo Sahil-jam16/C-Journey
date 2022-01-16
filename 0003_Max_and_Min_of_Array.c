@@ -6,9 +6,9 @@ int main() {
 	for( i=1 ; i<=t ; i++)
     {
         scanf("%d",&n);
-        for( j=0 ; j<n ; j++)
+        for( j=0 ; j<=n-1 ; j++)
         {
-            scanf("%d ",&a[j]);
+            scanf("%d",&a[j]);
         }
         max=min=a[0];
             for( j=0 ; j<n ; j++ )
