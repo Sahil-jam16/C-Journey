@@ -3,7 +3,7 @@
 int main() {
 	int t,n,a[100];
 	scanf("%d",&t);
-	while(t!=0)
+	for( int i=0 ; i<t ; i++)
 	{
 	    scanf("%d",&n);
 	    for( int i=0 ; i<n ; i++)
