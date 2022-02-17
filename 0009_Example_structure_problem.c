@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+#include<conio.h>
 #define clrscr();
 struct product
 {
@@ -13,7 +14,7 @@ main()
 {
       
 int n;
-system("cls");
+//system("cls");
 printf("Enter the no of products : ");
 scanf("%d",&n);
 struct product pro[n];
@@ -39,4 +40,5 @@ for( int j=1 ; j<=n ; j++ )
 }
 printf("\n\tTOTAL AMOUNT TO BE PAID : %5.2f\n\n",bill);
 
+return 0;
 }
