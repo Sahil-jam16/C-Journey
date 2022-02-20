@@ -15,7 +15,7 @@ main()
 
  //   struct line one={ .a=10 ,.b.x=50, .b.y=80};
     printf("Example of Nested Structure :\n");
-    printf("Line - %d ,\nPoint - %d , %d ",one.a,one.b.x,one.b.y);
+    printf("Line - %d \nPoint - %d , %d ",one.a,one.b.x,one.b.y);
 
 
 }
